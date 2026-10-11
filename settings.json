@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "BigKiller_",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "AmbientalistiCraft.aternos.me",
+    "port": 33519,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
